@@ -127,8 +127,8 @@ const config = {
                 href: 'https://song921012.github.io/',
               },
               {
-                label: 'Mathepia Organization',
-                href: 'https://github.com/Mathepia',
+                label: 'JuliaEpi',
+                href: 'https://github.com/JuliaEpi',
               },
             ],
           },

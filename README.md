@@ -9,9 +9,9 @@ Guides on contributions:
 - Open issues to add source links
 - Fork and pull requests
 
-Also see its twin repo [awesome-scimlTutorial: Tutorials on math epidemiology and epidemiology informed deep learning methods](https://github.com/Song921012/awesome-scimlTutorial).
+Also see its twin repo [awesome-scimlTutorial: Tutorials on math epidemiology and epidemiology informed deep learning methods](https://github.com/Song921012/MathEpiDeepLearningTutorial).
 
-![DifferentialPrograming](https://github.com/Song921012/awesome-scimlTutorial/blob/main/Data/Pictures/DifferentialPrograming1.png?raw=ture)
+![DifferentialPrograming](https://github.com/Song921012/MathEpiDeepLearningTutorial/blob/main/Data/Pictures/DifferentialPrograming1.png?raw=ture)
 
 Contents:
 
