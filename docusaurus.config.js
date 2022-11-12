@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'MathEpiDeepLearning', //网站名字
+  title: 'awesome-sciml', //网站名字
   tagline: 'Mathematical Epidemiology and Deep Learning',
-  url: 'https://JuliaEpi.github.io/', // 基准网站
-  baseUrl: '/MathEpiDeepLearning/', //网站子名字
+  url: 'https://Mathepia.github.io/', // 基准网站
+  baseUrl: '/awesome-sciml/', //网站子名字
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/mathepia.ico', // 浏览器tab网站logo
-  organizationName: 'JuliaEpi', // Usually your GitHub org/user name.
-  projectName: 'MathEpiDeepLearning', // Usually your repo name.
+  organizationName: 'Mathepia', // Usually your GitHub org/user name.
+  projectName: 'awesome-sciml', // Usually your repo name.
 
   presets: [
     [
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/JuliaEpi/MathEpiDeepLearning',
+          editUrl: 'https://github.com/Mathepia/awesome-sciml',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/JuliaEpi/MathEpiDeepLearning',
+            'https://github.com/Mathepia/awesome-sciml',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -44,10 +44,10 @@ const config = {
     ({
       announcementBar: {
         id: 'announcementBar-2', // Increment on change
-        content: `⭐️ If you like MathEpiDeepLearning, don't hesitate to <a target="_blank" rel="noopener noreferrer" href="https://github.com/JuliaEpi/MathEpiDeepLearning">star us</a>`,
+        content: `⭐️ If you like awesome-sciml, don't hesitate to <a target="_blank" rel="noopener noreferrer" href="https://github.com/Mathepia/awesome-sciml">star us</a>`,
       },
       navbar: {
-        title: 'MathEpiDeepLearning',
+        title: 'awesome-sciml',
         logo: {
           alt: 'Mathepia Logo',
           src: 'img/avatar.jpg',
@@ -63,7 +63,7 @@ const config = {
             to: 'packagecollections',
             label: 'Packages',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/JuliaEpi',
             label: 'GitHub',
@@ -73,14 +73,14 @@ const config = {
             href: 'https://song921012.github.io/',
             label: 'PengfeiCV',
           },
-           {
-                label: 'Mathepia',
-                href: 'https://github.com/Mathepia',
-              },
-              {
-                label: 'Mathepia.jl',
-                href: 'https://github.com/JuliaEpi/Mathepia.jl',
-              },
+          {
+            label: 'Mathepia',
+            href: 'https://github.com/Mathepia',
+          },
+          {
+            label: 'Mathepia.jl',
+            href: 'https://github.com/Mathepia/Mathepia.jl',
+          },
         ],
       },
       footer: {
@@ -98,9 +98,9 @@ const config = {
                 to: '/docs/intro',
               },
               {
-            href: 'https://github.com/Song921012/MathEpiDeepLearningTutorial',
-            label: 'Tutorials',
-          },{
+                href: 'https://github.com/Song921012/awesome-scimlTutorial',
+                label: 'Tutorials',
+              }, {
                 label: 'MathepiaPrograms',
                 href: 'https://github.com/Mathepia/MathepiaPrograms',
               },
@@ -110,12 +110,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'JuliaEpi Organizations',
+                label: 'Mathepia Organizations',
                 href: 'https://github.com/Mathepia',
               },
               {
                 label: 'Mathepia Packages Systems',
-                href: 'https://github.com/JuliaEpi/Mathepia.jl',
+                href: 'https://github.com/Mathepia/Mathepia.jl',
               },
             ],
           },

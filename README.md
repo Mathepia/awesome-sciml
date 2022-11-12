@@ -1,17 +1,17 @@
-# MathEpiDeepLearning
+# awesome-sciml
 
-See [Website of MathEpiDeepLearning](https://JuliaEpi.github.io/MathEpiDeepLearning/)
+See [Website of awesome-sciml](https://Mathepia.github.io/awesome-sciml/)
 
-Note that at this time packages are all listed in Readme. Now I am gradually classifying them and move them to docs (with the name Resources) in [Website of MathEpiDeepLearning](https://JuliaEpi.github.io/MathEpiDeepLearning/). See details in Resources/Tools for AI4Science. 
+Note that at this time packages are all listed in Readme. Now I am gradually classifying them and move them to docs (with the name Resources) in [Website of awesome-sciml](https://Mathepia.github.io/awesome-sciml/). See details in Resources/Tools for AI4Science.
 
 Guides on contributions:
 
 - Open issues to add source links
 - Fork and pull requests
 
-Also see its twin repo [MathEpiDeepLearningTutorial: Tutorials on math epidemiology and epidemiology informed deep learning methods](https://github.com/Song921012/MathEpiDeepLearningTutorial).
+Also see its twin repo [awesome-scimlTutorial: Tutorials on math epidemiology and epidemiology informed deep learning methods](https://github.com/Song921012/awesome-scimlTutorial).
 
-![DifferentialPrograming](https://github.com/Song921012/MathEpiDeepLearningTutorial/blob/main/Data/Pictures/DifferentialPrograming1.png?raw=ture)
+![DifferentialPrograming](https://github.com/Song921012/awesome-scimlTutorial/blob/main/Data/Pictures/DifferentialPrograming1.png?raw=ture)
 
 Contents:
 
