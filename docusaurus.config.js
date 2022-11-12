@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'awesome-sciml', //网站名字
-  tagline: 'Mathematical Epidemiology and Deep Learning',
-  url: 'https://Mathepia.github.io/', // 基准网站
+  tagline: 'Awesome SciML Resources',
+  url: 'https://mathepia.github.io/', // 基准网站
   baseUrl: '/awesome-sciml/', //网站子名字
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -65,7 +65,7 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/JuliaEpi',
+            href: 'https://github.com/Mathepia',
             label: 'GitHub',
             position: 'right',
           },
@@ -98,7 +98,7 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                href: 'https://github.com/Song921012/awesome-scimlTutorial',
+                href: 'https://github.com/Song921012/MathEpiDeepLearningTutorial',
                 label: 'Tutorials',
               }, {
                 label: 'MathepiaPrograms',
