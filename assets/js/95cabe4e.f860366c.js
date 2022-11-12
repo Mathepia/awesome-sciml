@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2768],{1073:function(e){e.exports=JSON.parse('{"welcome":{"allTagsPath":"/awesome-sciml/blog/tags","name":"welcome","count":2,"permalink":"/awesome-sciml/blog/tags/welcome"},"review":{"allTagsPath":"/awesome-sciml/blog/tags","name":"review","count":2,"permalink":"/awesome-sciml/blog/tags/review"}}')}}]);
