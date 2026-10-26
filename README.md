@@ -1241,6 +1241,8 @@ Python：
 
 [DedalusProject/dedalus: A flexible framework for solving PDEs with modern spectral methods.](https://github.com/DedalusProject/dedalus)
 
+[haoming-luo/agentfem: A local Python finite-element workflow built on FEniCSx, with editable models, pre-run checks and recorded results for mechanics and heat transfer.](https://github.com/haoming-luo/agentfem)
+
 ### 3.7.2 Fractional Differential and Calculus
 
 Julia

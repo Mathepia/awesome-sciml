@@ -77,6 +77,8 @@ Python：
 
 [FEniCS Project](https://github.com/FEniCS)
 
+[haoming-luo/agentfem: A local Python finite-element workflow built on FEniCSx, with editable models, pre-run checks and recorded results for mechanics and heat transfer.](https://github.com/haoming-luo/agentfem)
+
 #### Integral Differential Equation
 
 [TSGut/SparseVolterraExamples.jl: A number of examples built on the method described in https://arxiv.org/abs/2005.06081 for solving nonlinear and integro-differential Volterra equations](https://github.com/TSGut/SparseVolterraExamples.jl)
